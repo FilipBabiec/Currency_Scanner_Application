@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: CurrencyImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5629547276938933772
+  m_GuidHigh: 4995862685436019872
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4963939888735257722
+      m_GuidHigh: 7145557387126996877
+    m_SerializedTextureGuid:
+      m_GuidLow: 6108274502433693547
+      m_GuidHigh: 5990082693590228488
+    m_Size: {x: 0.14, y: 0.069730975}
+    m_SpecifySize: 1
+    m_Name: F100PLN
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4921267395889219829
+      m_GuidHigh: 16832033904440151484
+    m_SerializedTextureGuid:
+      m_GuidLow: 10426968373705483769
+      m_GuidHigh: 3040374829044517691
+    m_Size: {x: 0.14, y: 0.07}
+    m_SpecifySize: 1
+    m_Name: B100PLN
+    m_Texture: {fileID: 0}
